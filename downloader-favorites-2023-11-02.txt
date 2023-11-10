@@ -1,0 +1,8 @@
+http://mirrors.kodi.tv/releases/ /releases/
+http://mirrors.kodi.tv/ /
+http://mirrors.kodi.tv/releases/?C=M&O=A Files...
+http://mirrors.kodi.tv/releases/ Files...
+http://mirrors.kodi.tv/releases/?C=M&O=A /releases/
+https://go.aftvnews.com/googlesearch/?q=Release%2BKodi Search: Release+Kodi
+https://go.aftvnews.com/googlesearch/?q=kodi%2B18.1 Search: kodi+18.1
+
